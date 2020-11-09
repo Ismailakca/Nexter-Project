@@ -1,2 +1,2 @@
 # Nexter-Project
-Using BEM and Atomic 
+Using BEM  
